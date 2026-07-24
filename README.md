@@ -20,7 +20,7 @@ The project demonstrates real-world SQL techniques including **Joins, Aggregate 
 
 ---
 
-# 📸 Project Preview
+# Entity Relationship (ER) Diagram
 
 ![SQL Project](images/Zomato-project-analysis.png)
 
@@ -188,12 +188,11 @@ Zomato-SQL-Business-Analysis
 Zomato-SQL-Business-Analysis/
 │
 ├── README.md
-├── ZomatodbProject.sql
-├── Dataset/
+├── Zomato_DB_Analysis.sql
+├── Database/
 │   └── Zomato_Database.sql
 ├── images/
-│   └── sql-project.png
-├── LICENSE
+│   └── ER_Diagram.png
 └── .gitignore
 ```
 
