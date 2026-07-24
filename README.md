@@ -22,7 +22,7 @@ The project demonstrates real-world SQL techniques including **Joins, Aggregate 
 
 # Entity Relationship (ER) Diagram
 
-![Zomato_Data_Analysis](images/ER Diagram.png)
+![Entity Relationship Diagram](images/ER Diagram.png)
 
 ---
 
