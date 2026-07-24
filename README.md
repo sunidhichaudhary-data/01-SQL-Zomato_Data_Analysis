@@ -192,7 +192,7 @@ Zomato-SQL-Business-Analysis/
 ├── Database/
 │   └── Zomato_Database.sql
 ├── images/
-│   └── ER_Diagram.png
+│   └── ER Diagram.png
 └── .gitignore
 ```
 
